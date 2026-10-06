@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arindam%20%22Lucky%22%20Poorey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Undergrad%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Game%20Dev&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arindam%20%20Poorey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Undergrad%20%E2%80%A2%20Robotics%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Game%20Dev&descAlignY=58&descSize=16" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&lines=Building+robots+that+see+and+decide;Shipping+real+client+products+with+Next.js;Recreating+combat+mechanics+in+Unreal+Engine+5;Looking+for+a+research+internship+in+agentic+AI" alt="Typing SVG" />
@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Location](https://img.shields.io/badge/Rajkot%2C%20Gujarat-India-2c5364?style=flat-square&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to-Research%20Internships-5eead4?style=flat-square&labelColor=203a43)
 
@@ -85,19 +84,6 @@ looking_for:
 - 💼 **Python/Django Intern** at BrainyBeam Technologies (May to June 2025)
 - 🎪 **MU Fest**: event organizer on the university team
 - 🎓 Certs: Unreal Engine 5 C++ (Udemy), Cisco Networking Basics, AI/ML Workshop at Techkriti IIT Kanpur
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027" />
-
-</div>
 
 ---
 
